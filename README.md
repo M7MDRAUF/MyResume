@@ -1,3 +1,7 @@
+Resume Output Screenshot:
+
+![Resume Output](resume-output.png)
+
 # Input
 
 The input for this program is a structured set of resume details stored directly inside the React `Resume` component. The data includes the student name, headline, contact information, education history, skills, work experience, and projects. Each section is represented as plain JavaScript data such as strings, arrays, and small objects. This approach means the program does not require the user to type anything at runtime. Instead, the resume content is prepared in advance and then rendered by React. The browser also provides a basic input to the system by requesting the application through the development server, loading the JavaScript bundle, and displaying the generated page.
